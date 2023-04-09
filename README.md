@@ -1,6 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=qg5) 
-
-## 
 [![Telegram](https://img.shields.io/badge/Telegram-252850?style=compact&logo=Telegram)](https://telegram.org)
 
 ## 
